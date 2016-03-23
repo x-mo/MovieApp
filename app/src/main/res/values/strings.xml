@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pref_title_sort_order">Sort order</string>
+    <string name="pref_default_sort_order">popularity.desc</string>
+    <string name="order_key">order_text</string>
+
+    <string name="api_key">ENTER YOUR OWN KEY MISTER!</string>
+    <string name="title_activity_detail">MovieDetail</string>
+    <string name="action_favorites">Favorites</string>
+    <string name="title_activity_favorites">Favorites</string>
+    <string name="title_activity_favorites_detail">DetailActivity</string>
+    <string name="action_refresh">Refresh</string>
+</resources>
